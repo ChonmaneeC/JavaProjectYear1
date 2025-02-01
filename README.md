@@ -1,3 +1,6 @@
+# JavaProjectYear1
+This Java project belongs to the final project for year 1 semester 2: Water Level of the Water Tank
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
