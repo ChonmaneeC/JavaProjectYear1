@@ -1,5 +1,6 @@
 # JavaProjectYear1
 This Java project belongs to the final project for year 1 semester 2: Water Level of the Water Tank
+<<<<<<< HEAD
 
 ## Getting Started
 
@@ -19,3 +20,5 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+=======
+>>>>>>> b68433d300c78cf48e636cec24d17d61cce9f373
