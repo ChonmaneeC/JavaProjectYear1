@@ -1,4 +1,4 @@
-package waterlevel.logic;
+package waterlevelLogic;
 
 import java.awt.Color;
 import java.awt.Dimension;

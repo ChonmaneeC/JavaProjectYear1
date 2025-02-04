@@ -1,7 +1,6 @@
-package waterlevel.logic;
+package waterlevelLogic;
 
 import java.awt.Color;
-
 import javax.swing.JPanel;
 
 public class BackGround extends JPanel
