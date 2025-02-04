@@ -1,4 +1,4 @@
-package waterlevel.ui;
+package waterlevelUI;
 
 public class WaterLevelTesting 
 {

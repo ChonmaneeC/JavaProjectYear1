@@ -1,4 +1,4 @@
-package waterlevel.ui;
+package waterlevelUI;
 
 import java.awt.Font;
 import java.awt.Color;
@@ -23,8 +23,8 @@ import javax.swing.JButton;
 import javax.swing.ButtonGroup;
 import javax.swing.JOptionPane;
 
-import waterlevel.logic.Tank;
-import waterlevel.logic.BackGround;
+import waterlevelLogic.Tank;
+import waterlevelLogic.BackGround;
 
 public class WaterLevel extends JFrame implements ActionListener, ItemListener, KeyListener {
     JPanel waterTank;
